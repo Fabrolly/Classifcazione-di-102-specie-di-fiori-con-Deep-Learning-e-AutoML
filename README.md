@@ -14,4 +14,4 @@ L’obiettivo del progetto `e la realizzazione di una rete neurale convoluzional
 
 Per raggiungere l’obbiettivo preﬁssato, diversi modelli vengono proposti, addestrati ed ottimizzati con tecniche di Automated Machine Learning al ﬁne di individuare gli iperparametri e la struttura delle reti ottimali. I modelli vengono poi confrontati per individuare il migliore, sia in termine di accuracy che di top-5-accuracy. In particolare vengono confrontati un modello ideato da zero, un modello basato su un autoencoder convoluzionale, un modello che usa la rete VGG16 come feature extractor ed un modello basato sul ﬁne tuning sempre della rete VGG16.
 
-Il report comleto é disponibile nel pdf qui presente
+Il report comleto é disponibile nel pdf "Report Finale.pdf"
