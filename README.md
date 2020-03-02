@@ -2,7 +2,8 @@
 
 Cristian Baldi - Fabrizio Olivadese - Simone Vitali
 
-Advanced Machine Learning - University Of Milano Bicocca - Department of Computer Sciences, Systems and Communications
+Advanced Machine Learning
+University Of Milano Bicocca - Department of Computer Sciences, Systems and Communications
 
 ## Sommario
 L’obiettivo dell’elaborato `e la classiﬁcazione di immagini rappresentanti 102 diverse specie di ﬁori. Per raggiungere l’obiettivo sono stati confrontati diversi approcci basati sul deep learning, in particolare una rete basata convluzionale, una basata su autoencoder, una su ﬁne tuning e una su feature extraction. Per decidera la struttura ottimale delle singole reti, cos`ı come gli iperparametri, sono state utilizzate tecniche di AutoML e Bayesian Optimization. La rete che utilizza feature extraction a partire da una VGG16 si dimostra il modello pi`u e ﬃ cace, ottenendo performance sul test set pari al 72.7% di accuracy e 90.3% di top-5 accuracy.
