@@ -3,6 +3,7 @@
 Cristian Baldi - Fabrizio Olivadese - Simone Vitali
 
 Advanced Machine Learning
+
 University Of Milano Bicocca - Department of Computer Sciences, Systems and Communications
 
 ## Sommario
