@@ -12,6 +12,7 @@ L’obiettivo dell’elaborato é la classiﬁcazione di immagini rappresentanti
 Per decidere la struttura ottimale delle singole reti, cosí come gli iperparametri, sono state utilizzate tecniche di **AutoML e Bayesian Optimization**. La rete che utilizza feature extraction a partire da una VGG16 si dimostra il modello piú eﬃcace, ottenendo performance sul test set pari al **72.7% di accuracy** e 90.3% di top-5 accuracy.
 
 
+
 ![Best Score](https://raw.githubusercontent.com/Fabrolly/Classifcazione-di-102-specie-di-fiori-con-Deep-Learning-e-AutoML/master/Resources/images/best%20score%20-%20feature%20extraction.png)
 
 
