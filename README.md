@@ -2,8 +2,6 @@
 
 [Cristian Baldi](https://www.linkedin.com/in/crisbal/) - [Fabrizio Olivadese](https://www.linkedin.com/in/fabrizio-olivadese-71a445b3/) - Simone Vitali
 
-Advanced Machine Learning
-
 University Of Milano Bicocca - Department of Computer Sciences, Systems and Communications
 
 ## Sommario
