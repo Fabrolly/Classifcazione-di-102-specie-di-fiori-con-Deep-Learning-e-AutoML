@@ -24,4 +24,4 @@ Per raggiungere l’obbiettivo preﬁssato, diversi modelli vengono proposti, ad
 
 ## Report Completo
 
-[Leggi il report completo qui](https://github.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/blob/master/Final%20Report.pdf)
+[Leggi il report completo qui](https://github.com/Fabrolly/Classifcazione-di-102-specie-di-fiori-con-Deep-Learning-e-AutoML/blob/master/Report%20Finale.pdf)
