@@ -9,6 +9,9 @@ L’obiettivo dell’elaborato é la classiﬁcazione di immagini rappresentanti
 
 Per decidere la struttura ottimale delle singole reti, cosí come gli iperparametri, sono state utilizzate tecniche di **AutoML e Bayesian Optimization**. La rete che utilizza feature extraction a partire da una VGG16 si dimostra il modello piú eﬃcace, ottenendo performance sul test set pari al **72.7% di accuracy** e 90.3% di top-5 accuracy.
 
+![Dataset Example](https://github.com/Fabrolly/Classifcazione-di-102-specie-di-fiori-con-Deep-Learning-e-AutoML/blob/master/Resources/images/dataset%20examples.png?raw=true)
+
+
 ## Introduzione
 A diﬀerenza di altri task di classiﬁcazione sulle immagini, che si limitano a distinguere categorie diverse di oggetti, un task come quella dello classiﬁcazione delle specie di ﬁori si preﬁssa di distinguere classi speciﬁche all’interno di una singola categoria di oggetti. Nel caso in questione le classi da identiﬁcare sono caratterizzate da un’elevata similaritá  extra-classe, ad esempio due ﬁori che hanno petali e colore simile potrebbero appartenere a specie diverse.
 
