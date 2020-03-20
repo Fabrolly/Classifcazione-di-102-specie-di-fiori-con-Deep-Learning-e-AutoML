@@ -4,12 +4,16 @@
 
 University Of Milano Bicocca - Department of Computer Sciences, Systems and Communications
 
+![Dataset Example](https://github.com/Fabrolly/Classifcazione-di-102-specie-di-fiori-con-Deep-Learning-e-AutoML/blob/master/Resources/images/dataset%20examples.png?raw=true)
+
 ## Sommario
 L’obiettivo dell’elaborato é la classiﬁcazione di immagini rappresentanti 102 diverse specie di ﬁori. Per raggiungere l’obiettivo sono stati confrontati diversi approcci basati sul **deep learning**, in particolare una rete basata **convluzionale**, una basata su **autoencoder**, una su **ﬁne tuning** e una su **feature extraction**. 
 
 Per decidere la struttura ottimale delle singole reti, cosí come gli iperparametri, sono state utilizzate tecniche di **AutoML e Bayesian Optimization**. La rete che utilizza feature extraction a partire da una VGG16 si dimostra il modello piú eﬃcace, ottenendo performance sul test set pari al **72.7% di accuracy** e 90.3% di top-5 accuracy.
 
-![Dataset Example](https://github.com/Fabrolly/Classifcazione-di-102-specie-di-fiori-con-Deep-Learning-e-AutoML/blob/master/Resources/images/dataset%20examples.png?raw=true)
+
+![Best Score](https://raw.githubusercontent.com/Fabrolly/Classifcazione-di-102-specie-di-fiori-con-Deep-Learning-e-AutoML/master/Resources/images/best%20score%20-%20feature%20extraction.png)
+
 
 
 ## Introduzione
